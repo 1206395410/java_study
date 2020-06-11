@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="2006090203" />
         <module name="2006090202" />
-        <module name="2006090201" />
+        <module name="01" />
+        <module name="02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

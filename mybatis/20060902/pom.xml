@@ -10,8 +10,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>2006090201</module>
         <module>2006090202</module>
+        <module>2006090203</module>
+        <module>01</module>
+        <module>02</module>
     </modules>
 
 
@@ -35,6 +37,13 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
+        <!-- log4j -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
+        </dependency>
+
     </dependencies>
 <!--在build中配置resource，防止maven导出资源失败-->
     <build>

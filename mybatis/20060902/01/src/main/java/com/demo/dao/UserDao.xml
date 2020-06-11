@@ -15,4 +15,7 @@
     <update id="updateUser" parameterType="com.demo.pojo.User">
         update user set name=#{name},pwd=#{pwd} where id=#{id}
     </update>
+    <select id="getUserListByLimit" parameterType="map" resultType="user" >
+        select * from user limit #{startIndex},#{pageSize}
+    </select>
 </mapper>
