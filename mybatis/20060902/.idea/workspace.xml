@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="218429b2-c0ad-4709-bf9e-59e7fb95d19f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/log/kuang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/main/java/com/demo/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/main/java/com/demo/dao/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/main/java/com/demo/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/src/test/java/com/demo/dao/UserDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/src/main/java/com/demo/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/src/main/java/com/demo/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/src/test/java/com/demo/dao/UserDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/target/classes/com/demo/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/target/classes/com/demo/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/target/classes/com/demo/utils/MybatisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/target/test-classes/com/demo/dao/UserDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/src/main/java/com/demo/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/src/main/java/com/demo/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/src/test/java/com/demo/dao/UserDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/java/com/demo/dao/StudentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/java/com/demo/dao/TeacherMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/java/com/demo/pojo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/java/com/demo/pojo/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/resources/com/demo/dao/StudentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/resources/com/demo/dao/TeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/test/java/com/demo/dao/StudentMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/src/test/java/com/demo/dao/TeacherMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/com/demo/dao/StudentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/com/demo/dao/StudentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/com/demo/dao/TeacherMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/com/demo/dao/TeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/com/demo/pojo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/com/demo/pojo/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/com/demo/utils/MybatisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/test-classes/META-INF/04(mybatis complex select).kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/test-classes/com/demo/dao/StudentMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04(mybatis complex select)/target/test-classes/com/demo/dao/TeacherMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/05(dynamic SQL).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/log/kuang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/java/com/demo/dao/BlogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/java/com/demo/dao/BlogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/java/com/demo/pojo/Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/java/com/demo/utils/IDutils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/test/java/com/demo/dao/BlogMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/src/test/java/com/demo/utils/IDutilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/com/demo/dao/BlogMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/com/demo/dao/BlogMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/com/demo/pojo/Blog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/com/demo/utils/IDutils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/com/demo/utils/MybatisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/test-classes/com/demo/dao/BlogMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05(dynamic SQL)/target/test-classes/com/demo/utils/IDutilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/06(mybatis Cache).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/main/java/com/demo/dao/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/main/java/com/demo/dao/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/main/java/com/demo/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/main/java/com/demo/utils/IDutils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/test/java/com/demo/dao/UserMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/src/test/java/com/demo/utils/IDutilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/classes/com/demo/dao/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/classes/com/demo/dao/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/classes/com/demo/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/classes/com/demo/utils/IDutils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/classes/com/demo/utils/MybatisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/test-classes/com/demo/dao/UserMapperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06(mybatis Cache)/target/test-classes/com/demo/utils/IDutilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20060902(kuang shen shuo).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/2006090202.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/src/main/java/com/demo/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/src/main/java/com/demo/dao/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/src/main/java/com/demo/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/src/test/java/com/demo/dao/UserDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/target/classes/com/demo/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/target/classes/com/demo/dao/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/target/classes/com/demo/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/target/classes/com/demo/utils/MybatisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090202/target/test-classes/com/demo/dao/UserDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/2006090203.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/src/main/java/com/demo/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/src/main/java/com/demo/dao/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/src/main/java/com/demo/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/src/main/java/com/demo/utils/MybatisUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/src/test/java/com/demo/dao/UserDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/target/classes/com/demo/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/target/classes/com/demo/dao/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/target/classes/com/demo/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/target/classes/com/demo/utils/MybatisUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/target/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2006090203/target/test-classes/com/demo/dao/UserDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="腾讯云mysql01" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="腾讯云mysql01" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="腾讯云mysql01" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="study: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="腾讯云mysql01" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="study: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="blog: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1d4dp53h0eoBq3LHVIjKpdbSdl0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20060902_kuangShenShuo" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.utils" />
+      <recent name="com.demo.dao" />
+      <recent name="com.demo.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/06(mybatis Cache)/src/test/java" />
+      <recent name="$PROJECT_DIR$/06(mybatis Cache)/src/main/java" />
+      <recent name="$PROJECT_DIR$/06(mybatis Cache)/src/main/resources" />
+      <recent name="$PROJECT_DIR$/05(dynamic SQL)/src/main/resources" />
+      <recent name="$PROJECT_DIR$/05(dynamic SQL)/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BlogMapperTest.testGetBlogIF">
+    <configuration name="BlogMapperTest.testGetBlogChoose" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05(dynamic SQL)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.dao.BlogMapperTest" />
+      <option name="METHOD_NAME" value="testGetBlogChoose" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogMapperTest.testGetBlogIF" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05(dynamic SQL)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.dao.BlogMapperTest" />
+      <option name="METHOD_NAME" value="testGetBlogIF" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogMapperTest.testInsertBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="05(dynamic SQL)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.dao.BlogMapperTest" />
+      <option name="METHOD_NAME" value="testInsertBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testGetUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06(mybatis Cache)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="testGetUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testGetUserById02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06(mybatis Cache)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.dao.UserMapperTest" />
+      <option name="METHOD_NAME" value="testGetUserById02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlogMapperTest.testGetBlogIF" />
+        <item itemvalue="JUnit.UserMapperTest.testGetUserById02" />
+        <item itemvalue="JUnit.UserMapperTest.testGetUserById" />
+        <item itemvalue="JUnit.BlogMapperTest.testGetBlogChoose" />
+        <item itemvalue="JUnit.BlogMapperTest.testInsertBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="218429b2-c0ad-4709-bf9e-59e7fb95d19f" name="Default Changelist" comment="" />
+      <created>1591688478160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591688478160</updated>
+      <workItem from="1591688479690" duration="8870000" />
+      <workItem from="1591754281672" duration="14403000" />
+      <workItem from="1591844068934" duration="114000" />
+      <workItem from="1591844205705" duration="10695000" />
+      <workItem from="1591927157042" duration="1888000" />
+      <workItem from="1592017219290" duration="8000" />
+      <workItem from="1592104984220" duration="846000" />
+      <workItem from="1592106860371" duration="698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591755128316">
+      <screen x="0" y="0" width="1152" height="807" />
+    </state>
+    <state x="301" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1152.807@0.0.1152.807" timestamp="1591755128316" />
+    <state x="502" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1023@0.0.1920.1023" timestamp="1591692491958" />
+    <state x="388" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1592016662097">
+      <screen x="0" y="0" width="1152" height="807" />
+    </state>
+    <state x="388" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1152.807@0.0.1152.807" timestamp="1592016662097" />
+    <state x="647" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1023@0.0.1920.1023" timestamp="1591692756440" />
+    <state x="522" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592037534826">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="313" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1152.807@0.0.1152.807" timestamp="1591838859221" />
+    <state x="522" y="186" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1023@0.0.1920.1023" timestamp="1592037534826" />
+    <state x="439" y="164" key="FileChooserDialogImpl" timestamp="1592107556684">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="439" y="164" key="FileChooserDialogImpl/0.0.1920.1023@0.0.1920.1023" timestamp="1592107556684" />
+    <state width="1874" height="195" key="GridCell.Tab.0.bottom" timestamp="1592107558848">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state width="1106" height="67" key="GridCell.Tab.0.bottom/0.0.1152.807@0.0.1152.807" timestamp="1592040219339" />
+    <state width="1874" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1023@0.0.1920.1023" timestamp="1592107558848" />
+    <state width="1874" height="195" key="GridCell.Tab.0.center" timestamp="1592107558845">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state width="1106" height="67" key="GridCell.Tab.0.center/0.0.1152.807@0.0.1152.807" timestamp="1592040219337" />
+    <state width="1874" height="195" key="GridCell.Tab.0.center/0.0.1920.1023@0.0.1920.1023" timestamp="1592107558845" />
+    <state width="1874" height="195" key="GridCell.Tab.0.left" timestamp="1592107558844">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state width="1106" height="67" key="GridCell.Tab.0.left/0.0.1152.807@0.0.1152.807" timestamp="1592040219333" />
+    <state width="1874" height="195" key="GridCell.Tab.0.left/0.0.1920.1023@0.0.1920.1023" timestamp="1592107558844" />
+    <state width="1874" height="195" key="GridCell.Tab.0.right" timestamp="1592107558846">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state width="1106" height="67" key="GridCell.Tab.0.right/0.0.1152.807@0.0.1152.807" timestamp="1592040219337" />
+    <state width="1874" height="195" key="GridCell.Tab.0.right/0.0.1920.1023@0.0.1920.1023" timestamp="1592107558846" />
+    <state width="1106" height="328" key="GridCell.Tab.1.bottom" timestamp="1591869280050">
+      <screen x="0" y="0" width="1152" height="807" />
+    </state>
+    <state width="1106" height="328" key="GridCell.Tab.1.bottom/0.0.1152.807@0.0.1152.807" timestamp="1591869280050" />
+    <state width="1874" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1023@0.0.1920.1023" timestamp="1591865806668" />
+    <state width="1106" height="328" key="GridCell.Tab.1.center" timestamp="1591869280048">
+      <screen x="0" y="0" width="1152" height="807" />
+    </state>
+    <state width="1106" height="328" key="GridCell.Tab.1.center/0.0.1152.807@0.0.1152.807" timestamp="1591869280048" />
+    <state width="1874" height="328" key="GridCell.Tab.1.center/0.0.1920.1023@0.0.1920.1023" timestamp="1591865806666" />
+    <state width="1106" height="328" key="GridCell.Tab.1.left" timestamp="1591869280046">
+      <screen x="0" y="0" width="1152" height="807" />
+    </state>
+    <state width="1106" height="328" key="GridCell.Tab.1.left/0.0.1152.807@0.0.1152.807" timestamp="1591869280046" />
+    <state width="1874" height="328" key="GridCell.Tab.1.left/0.0.1920.1023@0.0.1920.1023" timestamp="1591865806665" />
+    <state width="1106" height="328" key="GridCell.Tab.1.right" timestamp="1591869280049">
+      <screen x="0" y="0" width="1152" height="807" />
+    </state>
+    <state width="1106" height="328" key="GridCell.Tab.1.right/0.0.1152.807@0.0.1152.807" timestamp="1591869280049" />
+    <state width="1874" height="328" key="GridCell.Tab.1.right/0.0.1920.1023@0.0.1920.1023" timestamp="1591865806667" />
+    <state width="286" height="478" key="HiddenNamespacesPopup" timestamp="1591690861980">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state width="286" height="478" key="HiddenNamespacesPopup/0.0.1920.1023@0.0.1920.1023" timestamp="1591690861980" />
+    <state x="190" y="41" key="SettingsEditor" timestamp="1591856142331">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="114" y="32" key="SettingsEditor/0.0.1152.807@0.0.1152.807" timestamp="1591688583775" />
+    <state x="190" y="41" key="SettingsEditor/0.0.1920.1023@0.0.1920.1023" timestamp="1591856142331" />
+    <state x="803" y="271" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1591692457959">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="803" y="271" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1023@0.0.1920.1023" timestamp="1591692457959" />
+    <state x="390" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1592106859666">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="234" y="231" key="com.intellij.ide.util.TipDialog/0.0.1152.807@0.0.1152.807" timestamp="1592105213765" />
+    <state x="390" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1023@0.0.1920.1023" timestamp="1592106859666" />
+    <state x="99" y="171" key="new project wizard" timestamp="1592037219830">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="0" y="95" key="new project wizard/0.0.1152.807@0.0.1152.807" timestamp="1592014528308" />
+    <state x="99" y="171" key="new project wizard/0.0.1920.1023@0.0.1920.1023" timestamp="1592037219830" />
+    <state x="239" y="128" width="672" height="678" key="search.everywhere.popup" timestamp="1592028605580">
+      <screen x="0" y="0" width="1152" height="807" />
+    </state>
+    <state x="239" y="128" width="672" height="678" key="search.everywhere.popup/0.0.1152.807@0.0.1152.807" timestamp="1592028605580" />
+  </component>
+</project>
