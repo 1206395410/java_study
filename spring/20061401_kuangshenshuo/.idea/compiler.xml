@@ -6,8 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="03_dependencyInject" />
+        <module name="02_helloSpring" />
+        <module name="04_annotation" />
+        <module name="05_appConfig" />
         <module name="01" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="04_autoWired" target="1.5" />
+      <module name="05_annotation" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
