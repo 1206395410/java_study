@@ -2,15 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="01" />
+        <module name="07_aop" />
+        <module name="09_transaction" />
+        <module name="08_springMybatis" />
         <module name="03_dependencyInject" />
+        <module name="05_appConfig" />
         <module name="02_helloSpring" />
         <module name="04_annotation" />
-        <module name="05_appConfig" />
-        <module name="01" />
+        <module name="06_proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
