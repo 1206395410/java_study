@@ -1,4 +1,4 @@
-package com.kuang.controller;
+package com.demo.controller;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
@@ -8,12 +8,13 @@ import javax.servlet.http.HttpServletResponse;
 
 public class HelloController implements Controller {
     public ModelAndView handleRequest(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse) throws Exception {
-        //ModelAndView 模型和视图
         ModelAndView mv = new ModelAndView();
-        //封装对象，放在ModelAndView中
-        mv.addObject("msg","HelloSpringMVC");
-        //封装要跳转的视图，放在ModeAndView中
-        mv.setViewName("hello");
+        //业务代码
+        String result = "HelloMVC";
+        mv.addObject("msg",result);
+
+        //视图跳转
+        mv.setViewName("test");
         return mv;
     }
 }

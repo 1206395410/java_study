@@ -11,6 +11,9 @@
     <modules>
         <module>01_servlet</module>
         <module>02_helloSpringMVC</module>
+        <module>03_annotation</module>
+        <module>04_controller</module>
+        <module>05_JSON</module>
     </modules>
     <dependencies>
         <dependency>
