@@ -1,0 +1,18 @@
+#普通key-value
+name: 韦俊杰
+
+#对象
+student1:
+  name: 韦俊杰
+  age: 3
+
+#行内写法
+student2: {name: 韦俊杰,age: 3}
+
+#数组
+pets1:
+  - cat
+  - dog
+  - pig
+
+pets2: [cat,dog,pig]
